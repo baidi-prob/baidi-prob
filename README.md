@@ -9,4 +9,4 @@ Building agentic AI systems, RAG pipelines, and automation workflows in producti
 📈 **Forecasting** — ARIMA ensembles · 85%+ directional accuracy in production<br>
 🌍 **Geospatial DS** — kriging · IDW interpolation · 50+ weather stations
 
-📫 rajaobaid826@gmail.com<br> 🔗 [linkedin.com/in/obaidraja](https://www.linkedin.com/in/obaidraja/)
+📫 rajaobaid826@gmail.com 🔗 [linkedin.com/in/obaidraja](https://www.linkedin.com/in/obaidraja/)
