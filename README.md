@@ -1,8 +1,6 @@
 # Obaid Ullah Raja — AI Engineer
 
-AI & ML Engineer @ WeatherWalay | B.S. AI @ FAST-NUCES, Islamabad (2021–2026)
-
-Building agentic AI systems, RAG pipelines, and automation workflows in production.
+AI & ML Engineer @ WeatherWalay | B.S. AI @ FAST-NUCES, Islamabad (2021–2026) Building agentic AI systems, RAG pipelines, and automation workflows in production.
 
 🤖 **Agentic AI** — LangChain · LangGraph · multi-agent orchestration · MCP
 
@@ -14,6 +12,4 @@ Building agentic AI systems, RAG pipelines, and automation workflows in producti
 
 🌍 **Geospatial DS** — kriging · IDW interpolation · 50+ weather stations
 
-📫 rajaobaid826@gmail.com
-
-🔗 [linkedin.com/in/obaidraja](https://www.linkedin.com/in/obaidraja/)
+📫 rajaobaid826@gmail.com 🔗 [linkedin.com/in/obaidraja](https://www.linkedin.com/in/obaidraja/)
